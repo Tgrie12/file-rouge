@@ -1,0 +1,40 @@
+/* General Styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0a1e24;
+    color: #fff;
+}
+
+/* Header Styling */
+header {
+    background-color: #0a1e24;
+    padding: 10px 20px;
+}
+
+.header-content h1 {
+    font-size: 16px;
+    margin: 0;
+    color: #fff;
+}
+
+/* Main Section Styling */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+}
+
+.intro p {
+    margin: 0;
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+/* Highlighted Text */
+.highlight {
+    color: #1abc9c;
+    font-weight: bold;
+}
